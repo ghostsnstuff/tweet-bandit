@@ -1,0 +1,26 @@
+{
+  "name": "tweet-bandit",
+  "version": "1.0.0",
+  "description": "stuff goes here :pizza: :coffee: :shipit:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghostsnstuff/tweet-bandit.git"
+  },
+  "keywords": [
+    "pizza"
+  ],
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghostsnstuff/tweet-bandit/issues"
+  },
+  "homepage": "https://github.com/ghostsnstuff/tweet-bandit",
+  "dependencies": {
+    "mongoose": "^3.8.21",
+    "node-tweet-stream": "^1.6.0"
+  }
+}
