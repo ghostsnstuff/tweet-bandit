@@ -1,0 +1,20 @@
+{
+
+  "twitter_credentials": {
+    "consumer_key": "JGfVsnO4axVyFF3D0JQWGFTxa",
+    "consumer_secret": "mKRUVi5Yk16VOiNcCvIBnDOlucvsWM9fZPXc1oU8BABRrVpRNb",
+    "token": "381320914-yt2sEPz9oYm2oQWqHLynO7k6h3pxNTJz7odV8USu",
+    "token_secret": "v1tfu3ipp1DKhDlnW0EpP8k3BBL6p27rqn5GktB1mj361"
+  },
+
+  "keyword": "crowdfunding",
+
+  "logs": {
+    "tweets": "./crowd-tweets.log",
+    "errors": "./crowd-error.log",
+    "disconnect": "./crowd-disconnect.log"
+  },
+
+  "modelName": "crowdfundingTweet"
+
+}
