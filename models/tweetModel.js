@@ -29,8 +29,7 @@ tweetSchema = new Schema({
   hashtags: Array,
   trends: Array,
   urls: Array,
-  user_mentions: Array,
-  //data: Object
+  user_mentions: Array
 });
 
 tweetModel = mongoose.model(config.modelName, tweetSchema);
